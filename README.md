@@ -5,7 +5,7 @@ Abstractive text summarization summarizes the text maintaining coherent informat
 
 ## Dataset
 
-[CNN/Daily Mail Dataset] (https://www.kaggle.com/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
+[CNN, Daily Mail Dataset] (https://www.kaggle.com/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
 
 An English-language dataset containing over 300k unique news articles as written by journalists at CNN and the Daily Mail. 
 
@@ -27,7 +27,7 @@ Following pre-processing of the data is conducted.
 ## Results
 
 | CNN/DailyMail Summary Text | T5 Fine tuned predicted summary text |
-| :------------ |:---------------:| 
+| :------------: |:---------------:| 
 | Aluko nets winner with ten minutes remaining at KC Stadium. Tomas Marek put visitors into shock lead after two minutes. Ahmed Elmohamady equalised for the hosts .Steve Bruce's side now await Europa League play-off. | Ahmed Elmohamady gave AS Trencin the lead early on in the first half. Sone Aluko doubled the lead with a stunning free-kick from six yards. Hull's European adventure was extended by a minute-long penalty.|
 
 ROUGE 1: 0.11, ROUGE 2: 0.02
