@@ -5,7 +5,7 @@ Abstractive text summarization summarizes the text maintaining coherent informat
 
 ## Dataset
 
-[CNN, Daily Mail Dataset] (https://www.kaggle.com/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
+[CNN, Daily Mail Dataset](https://www.kaggle.com/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
 
 An English-language dataset containing over 300k unique news articles as written by journalists at CNN and the Daily Mail. 
 
